@@ -1,0 +1,13 @@
+stages:
+  - build
+
+image: node:16
+
+lint:
+  stage: build
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+  before_script:
+    - npm ci
+  script:
+    - npm run lint
