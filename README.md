@@ -5,6 +5,7 @@ This is an automated testing framework using WebdriverIO, Mocha, Chai, and Page 
 
 ## Getting Started
 
+
 Follow these instructions to set up the testing framework and start writing automated tests.
 
 ### Prerequisites
