@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.epam.com:dusan_svircevic/advanced-automated-js.git"
+    "url": ""
   },
   "keywords": [
     "Automated",
@@ -19,7 +19,7 @@
     "advanced",
     "js"
   ],
-  "author": "Dusan Svircevic",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@wdio/cli": "^8.35.1",

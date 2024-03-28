@@ -2,6 +2,7 @@
 
 This is an automated testing framework using WebdriverIO, Mocha, Chai, and Page Object Model (POM). It's designed to test Report Portal application.
 
+
 ## Getting Started
 
 Follow these instructions to set up the testing framework and start writing automated tests.
